@@ -12,7 +12,7 @@
     "provisioners": [
         {
             "type": "shell",
-            "script": "files/jenkins.sh"
+            "script": "files/r1soft.sh"
         },
         {
             "type": "breakpoint",
